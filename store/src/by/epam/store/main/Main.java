@@ -1,8 +1,8 @@
-package by.epam.modul4.task08.main;
+package by.epam.store.main;
 
-import by.epam.modul4.task08.entity.*;
-import by.epam.modul4.task08.logic.*;
-import by.epam.modul4.task08.view.*;
+import by.epam.store.entity.*;
+import by.epam.store.logic.*;
+import by.epam.store.view.*;
 
 import java.util.ArrayList;
 

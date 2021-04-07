@@ -1,8 +1,8 @@
-package by.epam.modul4.task08.view;
+package by.epam.store.view;
 
 import java.util.ArrayList;
 
-import by.epam.modul4.task08.entity.Customer;
+import by.epam.store.entity.Customer;
 
 public class CustomerView {
 	

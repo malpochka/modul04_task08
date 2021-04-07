@@ -1,8 +1,8 @@
-package by.epam.modul4.task08.logic;
+package by.epam.store.logic;
 
 import java.util.ArrayList;
 
-import by.epam.modul4.task08.entity.*;
+import by.epam.store.entity.*;
 
 public class CustomerLogic {
 

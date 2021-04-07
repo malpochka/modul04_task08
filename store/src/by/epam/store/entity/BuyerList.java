@@ -1,4 +1,4 @@
-package by.epam.modul4.task08.entity;
+package by.epam.store.entity;
 
 import java.util.ArrayList;
 
